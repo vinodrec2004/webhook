@@ -1,0 +1,6 @@
+templateRef: 'template:default/example-nodejs-template'
+values:
+  name: 'webSvc8'
+  repoUrl: 'github.com?owner=vinodrec2004&repo=webSvc8'
+  description: "Default description"
+  owner: 'vinodrec2004'
