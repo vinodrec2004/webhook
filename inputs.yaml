@@ -1,4 +1,4 @@
-templateRef: 'https://github.com/vinodrec2004/sample-templates/blob/main/template.yaml'
+templateRef: 'default/example-nodejs-template'
 values:
   name: 'webSvc10'
   repoUrl: 'github.com?owner=vinodrec2004&repo=webSvc10'
