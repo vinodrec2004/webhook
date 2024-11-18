@@ -1,6 +1,6 @@
-templateRef: 'https://raw.githubusercontent.com/vinodrec2004/webSvc8/master/template.yaml'
+templateRef: 'https://github.com/vinodrec2004/webSvc8/blob/master/template.yaml'
 values:
-  name: 'webSvc9'
-  repoUrl: 'github.com?owner=vinodrec2004&repo=webSvc9'
+  name: 'webSvc10'
+  repoUrl: 'github.com?owner=vinodrec2004&repo=webSvc10'
   description: "Default description"
   owner: 'vinodrec2004'
