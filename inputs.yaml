@@ -1,6 +1,6 @@
 templateRef: 'default/example-nodejs-template'
 values:
-  name: 'webSvc11'
-  repoUrl: 'github.com?owner=vinodrec2004&repo=webSvc11'
+  name: 'webSvc12'
+  repoUrl: 'github.com?owner=vinodrec2004&repo=webSvc12'
   description: "Default description"
   owner: 'vinodrec2004'
