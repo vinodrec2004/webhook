@@ -1,6 +1,6 @@
-templateRef: 'template:default/example-nodejs-template'
+templateRef: 'https://raw.githubusercontent.com/vinodrec2004/webSvc8/master/template.yaml'
 values:
-  name: 'webSvc8'
-  repoUrl: 'github.com?owner=vinodrec2004&repo=webSvc8'
+  name: 'webSvc9'
+  repoUrl: 'github.com?owner=vinodrec2004&repo=webSvc9'
   description: "Default description"
   owner: 'vinodrec2004'
